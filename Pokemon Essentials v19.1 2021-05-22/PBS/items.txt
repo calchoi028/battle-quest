@@ -646,4 +646,5 @@
 631,NSOLARIZER,N-Solarizer,N-Solarizers,8,0,"A machine to fuse Necrozma, which needs light, and Solgaleo.",5,0,6,
 632,NLUNARIZER,N-Lunarizer,N-Lunarizers,8,0,"A machine to fuse Necrozma, which needs light, and Lunala.",5,0,6,
 633,MEGARING,Mega Ring,Mega Rings,8,0,"This ring contains an untold power that somehow enables Pokémon carrying Mega Stones to Mega Evolve.",0,0,6,
-634,SLAKOTH,Sid the Slakoth,Sid the Slakoths,8,0,"Thith Thlakoth ith looking for itth friend.",2,0,6,
+634,SLAKOTH,Sid the Slakoth,Sid the Slakoths,8,0,"Sid is looking for his friend from way back in the Ice Age.",2,0,6,
+635,SUPERPECHABERRY,Super Pecha Berry,Super Pecha Berries,8,0,"This berry can be used to heal a very sick Pokemon.",2,0,6
