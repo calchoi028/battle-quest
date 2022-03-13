@@ -1,5 +1,23 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
+[BRONZE,Bronze]
+LoseText = "I hated that, thank you."
+Pokemon = LEAVANNY, 100
+    Gender = female
+    Moves = STICKYWEB,RAZORLEAF,BUGBITE,KNOCKOFF
+    AbilityIndex = 0
+    IV = 10,10,10,10,10,10
+Pokemon = LOPUNNY, 100
+    Gender = female
+    Moves = DIZZYPUNCH,DRAINPUNCH,WORKUP,FAKEOUT
+    AbilityIndex = 0
+    IV = 10,10,10,10,10,10
+Pokemon = BRONZONG, 100
+    Gender = female
+    Moves = EXTRASENSORY,ROCKTOMB,CONFUSERAY,EXPLOSION
+    AbilityIndex = 0
+    IV = 10,10,10,10,10,10
+#-------------------------------
 [CAMPER,Liam]
 LoseText = "A very good battle, indeed!"
 Pokemon = DIGLETT,10
