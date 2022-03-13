@@ -3,20 +3,36 @@
 [BRONZE,Bronze]
 LoseText = "I hated that, thank you."
 Pokemon = LEAVANNY, 100
-    Gender = female
     Moves = STICKYWEB,RAZORLEAF,BUGBITE,KNOCKOFF
     AbilityIndex = 0
     IV = 10,10,10,10,10,10
 Pokemon = LOPUNNY, 100
-    Gender = female
     Moves = DIZZYPUNCH,DRAINPUNCH,WORKUP,FAKEOUT
     AbilityIndex = 0
     IV = 10,10,10,10,10,10
 Pokemon = BRONZONG, 100
-    Gender = female
     Moves = EXTRASENSORY,ROCKTOMB,CONFUSERAY,EXPLOSION
     AbilityIndex = 0
     IV = 10,10,10,10,10,10
+[NICK,Nick]
+LoseText = "That was the single greatest game I have ever seen."
+Pokemon = DEDENNE, 100
+    Moves = WILDCHARGE,PLAYROUGH,UTURN,SUPERFANG
+    AbilityIndex = 0
+    IV = 10,10,10,10,10,10
+Pokemon = PACHIRISU, 100
+    Moves = NUZZLE,DISCHARGE,SUPERFANG,SWEETKISS
+    AbilityIndex = 0
+    IV = 10,10,10,10,10,10
+Pokemon = EMOLGA, 100
+    Moves = AIRSLASH,SIGNALBEAM,THUNDERBOLT,VOLTSWITCH
+    AbilityIndex = 0
+    IV = 10,10,10,10,10,10
+Pokemon = PICHU, 100
+    Moves = VOLTTACKLE,VCREATE,SURF,FAKEOUT
+    AbilityIndex = 0
+    Item = FOCUSSASH
+    IV = 31,31,31,31,31,31
 #-------------------------------
 [CAMPER,Liam]
 LoseText = "A very good battle, indeed!"
