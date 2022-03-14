@@ -38,5 +38,5 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone (66)
 69,North,0,66,South,10
-# Hidden Scizor (48) - Mansion Clearing (42)
-48,West,0,42,East,0
+# Mansion Clearing (42) - Spoopy Mansion (48)
+42,80,6,48,0,0

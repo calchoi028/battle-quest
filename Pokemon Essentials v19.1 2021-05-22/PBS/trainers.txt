@@ -62,7 +62,7 @@ Pokemon = MILTANK, 100
     AbilityIndex = 0
     IV = 31,31,31,31,31,31
 [BRENDAN,Brendan]
-LoseText = "I'm gonna have nightmares about you."
+LoseText = ":wheelchair: :wheelchair:."
 Pokemon = DRIFBLIM, 100
     Moves = WILLOWISP,HEX,THUNDERBOLT,AIRSLASH
     AbilityIndex = 0
