@@ -61,6 +61,33 @@ Pokemon = MILTANK, 100
     Moves = ICEBEAM,SEISMICTOSS,MILKDRINK,BODYSLAM
     AbilityIndex = 0
     IV = 31,31,31,31,31,31
+[BRENDAN,Brendan]
+LoseText = "I'm gonna have nightmares about you."
+Pokemon = DRIFBLIM, 100
+    Moves = WILLOWISP,HEX,THUNDERBOLT,AIRSLASH
+    AbilityIndex = 0
+    Item = FLAMEORB
+    IV = 31,31,31,31,31,31
+Pokemon = SCEPTILE, 100
+    Moves = LEAFBLADE,ACROBATICS,SWORDSDANCE,EARTHQUAKE
+    AbilityIndex = 0
+    Item = FLYINGGEM
+    IV = 31,31,31,31,31,31
+Pokemon = GLALIE, 100
+    Moves = PROTECT,SUBSTITUTE,TAUNT,ICEBEAM
+    AbilityIndex = 0
+    Item = LEFTOVERS
+    IV = 31,31,31,31,31,31
+Pokemon = METAGROSS, 100
+    Moves = BULLETPUNCH,AGILITY,ZENHEADBUTT,EARTHQUAKE
+    AbilityIndex = 0
+    Item = WEAKNESSPOLICY
+    IV = 31,31,31,31,31,31
+Pokemon = RAYQUAZA, 100
+    Moves = DRAGONDANCE,EARTHQUAKE,DRAGONCLAW,EXTREMESPEED
+    AbilityIndex = 0
+    Item = LIFEORB
+    IV = 31,31,31,31,31,31
 #-------------------------------
 [CAMPER,Liam]
 LoseText = "A very good battle, indeed!"
