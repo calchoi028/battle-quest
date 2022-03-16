@@ -137,6 +137,28 @@ Pokemon = ABSOL, 100
     AbilityIndex = 0
     Item = LIFEORB
     IV = 31,31,31,31,31,31
+[ADRIAN, Adrian]
+LoseText = "Ahh good game! ^_^"
+Pokemon = MIMIKYU, 100
+    Moves = SHADOWCLAW,PLAYROUGH,SWORDSDANCE,WOODHAMMER
+    AbilityIndex = 0
+    Item = LIFEORB
+    IV = 31,31,31,31,31,31
+Pokemon = GOURGEIST, 100
+    Moves = SEEDBOMB,SHADOWSNEAK,PHANTOMFORCE,GYROBALL
+    AbilityIndex = 0
+    Item = CHOICEBAND
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGONITE, 100
+    Moves = DRAGONDANCE,EARTHQUAKE,EXTREMESPEED,DRAGONCLAW
+    AbilityIndex = 0
+    Item = LEFTOVERS
+    IV = 31,31,31,31,31,31
+Pokemon = SHAYMIN, 100
+    Moves = LEECHSEED,SEEDFLARE,AIRSLASH,PROTECT
+    AbilityIndex = 0
+    Item = LEFTOVERS
+    IV = 31,31,31,31,31,31
 #-------------------------------
 [CAMPER,Liam]
 LoseText = "A very good battle, indeed!"
