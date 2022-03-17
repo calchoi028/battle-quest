@@ -159,6 +159,28 @@ Pokemon = SHAYMIN, 100
     AbilityIndex = 0
     Item = LEFTOVERS
     IV = 31,31,31,31,31,31
+[ANTHONY, Anthony]
+LoseText = "I have reached a new low."
+Pokemon = WAILORD, 100
+    Moves = SUBSTITUTE,AQUARING,PROTECT,BLOCK
+    AbilityIndex = 0
+    Item = LEFTOVERS
+    IV = 31,31,31,31,31,31
+Pokemon = CONKELDURR, 100
+    Moves = CLOSECOMBAT,FACADE,MACHPUNCH,KNOCKOFF
+    AbilityIndex = 0
+    Item = FLAMEORB
+    IV = 31,31,31,31,31,31
+Pokemon = INFERNAPE, 100
+    Moves = CLOSECOMBAT,FLAREBLITZ,UTURN,STONEEDGE
+    AbilityIndex = 0
+    Item = CHOICEBAND
+    IV = 31,31,31,31,31,31
+Pokemon = SIMISEAR, 100
+    Moves = NASTYPLOT,FIREBLAST,GRASSKNOT,FOCUSBLAST
+    AbilityIndex = 0
+    Item = LIFEORB
+    IV = 31,31,31,31,31,31
 #-------------------------------
 [CAMPER,Liam]
 LoseText = "A very good battle, indeed!"
