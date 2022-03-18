@@ -347,20 +347,6 @@ SafariMap = true
 BattleBack = forest
 Environment = Forest
 #-------------------------------
-[069]
-# Route 8
-Outdoor = true
-ShowArea = true
-MapPosition = 0,13,13
-DiveMap = 70
-BattleBack = field
-#-------------------------------
-[070]
-# Underwater
-MapPosition = 0,13,13
-BattleBack = underwater
-Environment = Underwater
-#-------------------------------
 [071]
 # Harbor
 MapPosition = 0,13,13
@@ -390,3 +376,14 @@ MapPosition = 0,12,10
 Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
+#-------------------------------
+[076]
+# Seafloor Cavern
+MapPosition = 0,13,13
+DiveMap = 77
+#-------------------------------
+[077]
+# Underwater Cavern
+MapPosition = 0,13,13
+BattleBack = underwater
+Environment = Underwater
