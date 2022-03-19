@@ -88,3 +88,4 @@
 85,ZACHDUMAR,UPC Member,0,,,,Male,100,
 86,MATTHEW,UPC Member,0,,,,Male,100,
 87,KEVIN,UPC Member,0,,,,Male,100,
+88,CALVINCHOI,UPC Exec,0,,,,Male,100,
