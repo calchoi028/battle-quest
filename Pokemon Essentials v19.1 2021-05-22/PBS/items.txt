@@ -649,3 +649,4 @@
 634,SLAKOTH,Sid the Slakoth,Sid the Slakoths,8,0,"Sid is looking for his friend from way back in the Ice Age.",2,0,6,
 635,SUPERPECHA,Super Pecha Berry,Super Pecha Berries,8,0,"This berry can be used to heal a very sick Pokemon.",2,0,6,
 636,SANDBUCKET,Bucket of Sand, Buckets of Sand,8,0,"It's a bucket of sand. Some Pokemon consider this a delicacy.",2,0,6,
+637,ENERGYBELT,Energizing Belt,Energizing Belts,8,0,"This belt radiates a strange energy.",2,0,6,
